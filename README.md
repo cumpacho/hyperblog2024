@@ -9,3 +9,6 @@ Decidí crear este blog para compartir mi proceso de aprendizaje en Git mientras
 ## Sobre mí
 
 Soy un entusiasta de la tecnología comprometido con el aprendizaje continuo, especialmente en Git y control de versiones.
+Creado por el increible Platzi Team
+Incluye ejemp`los en Windows, Linux y Mac
+Disponible para todas las edades
